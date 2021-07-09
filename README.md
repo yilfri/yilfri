@@ -10,6 +10,7 @@ Code Editor <br />
 Creativity.
 </p>
 
+---
 
 ### Connect with me:
 
@@ -17,6 +18,7 @@ Creativity.
 
 [<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -39,15 +41,6 @@ Creativity.
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yilfri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yilfri&show_icons=true&hide_border=true" />
-
-  [![Yilfri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilfri)](https://github.com/yilfri/github-readme-stats)
-
-</details>
 
 [![Yilfri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilfri)](https://github.com/yilfri/github-readme-stats)
 
